@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../excel-frontend"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/excel-frontend"
+		}
+	],
+	"settings": {
+		"terminal.explorerKind": "integrated",
+		"git.ignoreLimitWarning": true
+	}
+}
